@@ -1,0 +1,10 @@
+# Site settings
+title: Sameer Jagdale
+email: your-email@domain.com
+description: "Personal website. A result of my experiments with web dev. "
+baseurl: ""
+url: "http://yourdomain.com"
+username : sameerjagdale
+# Build settings
+markdown: kramdown
+permalink: pretty
