@@ -1,4 +1,4 @@
-sameerjagdale.github.io
+My Personal Website
 =======================
 
 Repository for my Website
