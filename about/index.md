@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About 
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
@@ -10,19 +10,6 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a graduate student at McGill University and am currently working on my thesis in the Sable research lab. My work involves compiling array-based languages such as Matlab and Python (with the numpy library) to C++ and OpenCL code. This work is part of the McLab project. More information on my research as well as the McLab research can be found on the [McLab](http://www.sable.mcgill.ca/mclab/) website .
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released several more Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [Skinny Bones Starter](http://mmistakes.github.io/skinny-bones-jekyll/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+My primary interests are in compilers, parallel programming and architectures and distributed systems. My projects can be on [github](https://github.com/sameerjagdale). My non-academic interests include reading, travelling and extreme procrastination. 
