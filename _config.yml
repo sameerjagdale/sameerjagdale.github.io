@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Sameer Jagdale
 locale:           en_US
 url:              http://localhost:4000
 
@@ -27,9 +27,9 @@ kramdown:
 # Site owner
 owner:
   name: Sameer Jagdale
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  avatar: self.jpg
+  bio: "A semi-frustrated Master's student at McGill University."
+  email: "sameer.s.jagdale@gmail.com" 
   disqus-shortname: 
   twitter: 
   facebook: 
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: 
+  github: sameerjagdale
   stackoverflow:
-  linkedin:
+  linkedin: 
   instagram: 
   lastfm:
   tumblr:
