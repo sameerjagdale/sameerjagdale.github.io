@@ -33,7 +33,9 @@
 </div>
 
 <div id="index">
+  {% capture num_posts %}{{site.posts | size |number}} {% endcapture %}
   <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+  {% if site.posts.size > 0 %}
   {% for post in site.posts limit:5 %}    
   <article>
     {% if post.link %}
@@ -44,6 +46,9 @@
     {% endif %}
   </article>
   {% endfor %}
+   {% else %}
+<h2> No posts yet :( </h2>	
+  {% endif %}
 </div><!-- /#index -->
 
 <div class="footer-wrap">
