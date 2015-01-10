@@ -1,0 +1,8 @@
+# List of talks given
+
+- title: VeloCty lecture at CASCON
+  url: http://www.cs.rochester.edu/drupal/sites/default/files/CasconTalk_VeloCty.pdf
+  description: We presented an overview of VeloCty at the 13th Compiler Driven Performance workshop. The CDP workshop was held during the IBM Center for Advanced Studies Conference (CASCON). The workshop featured talks on topics such as innovative analysis, languages, compilers and optimisation techniques for parallel environments etc. More information can be found <a href="http://www.cs.rochester.edu/drupal/cdp-2014">here</a>
+  presented: CASCON 2014, Markham, Canada
+  date: November 2014
+  id: cascon14
